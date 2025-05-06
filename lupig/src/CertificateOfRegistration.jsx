@@ -841,7 +841,7 @@ const CertificateOfRegistration = () => {
                 >
                   <input
                     type="text"
-                    value={"2024 - 2025"}
+                    value={"2018 - 2019"}
                     style={{
                       color: "black",
                       fontFamily: 'Arial, sans-serif',
