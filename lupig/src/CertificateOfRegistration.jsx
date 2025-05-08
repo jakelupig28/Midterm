@@ -607,7 +607,7 @@ const CertificateOfRegistration = () => {
               >
                 <input
                   type="text"
-                  value={"College of Computer Studies"}
+                  value={"College of Computing Studies"}
                   style={{
                     color: "black",
                     width: "98%",
